@@ -1,0 +1,24 @@
+{
+  "name": "hottable",
+  "version": "1.0.0",
+  "description": "table reservation",
+  "main": "script.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWHorne/hotTable.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SWHorne/hotTable/issues"
+  },
+  "homepage": "https://github.com/SWHorne/hotTable#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "jest": "^26.0.1"
+  }
+}
